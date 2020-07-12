@@ -30,11 +30,12 @@ export const Topside = styled.div`
 export const Logo = styled(Rocketseat)`
    width: 41px;
    height: 41px;
-   margin-bottom: 20px;
 
    > path {
       fill: var(--twitter);
    }
+   
+   margin-bottom: 20px;
 `;
 
 export const MenuButton = styled.button`
@@ -164,4 +165,3 @@ export const ExitIcon = styled(ExitToApp)`
       }
    }
 `;
-

@@ -13,8 +13,7 @@ import {
    Botside,
    Avatar,
    ProfileData,
-   ExitIcon,
- } from './styles';
+   ExitIcon } from './styles';
 
 const MenuBar: React.FC = () => {
   return (
@@ -63,7 +62,7 @@ const MenuBar: React.FC = () => {
            <ExitIcon />
         </Botside>
      </Container>
-  )
-}
+  );
+};
 
 export default MenuBar;
