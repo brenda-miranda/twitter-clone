@@ -8,6 +8,7 @@ import {
    LocationIcon, 
    CakeIcon, 
    Followage,
+   EditButton
     } from './styles';
 
 const ProfilePage: React.FC = () => {
@@ -18,7 +19,7 @@ const ProfilePage: React.FC = () => {
            </Banner>
            
            <ProfileData>
-              {/* <EditButton outlined>Editar perfil</EditButton> */}
+              <EditButton outlined>Editar perfil</EditButton>
               <h1>Brenda Miranda</h1>
               <h2>@bmndxx</h2>
               <p>Front-end Developer, 22 anos, carioca :D</p>
