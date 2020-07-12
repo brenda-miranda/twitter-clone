@@ -149,7 +149,7 @@ export const Status = styled.div`
    /** Para o terceiro do grupo */
    &:nth-child(3) {
       color: var(--like);
-      > svg path {
+      > svg {
          fill: var(--like);
       }
    }
