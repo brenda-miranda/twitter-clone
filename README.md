@@ -1,5 +1,5 @@
 <h1 align="center">
-UI Clone - Twitter Responsive
+UI Clone - Responsive Twitter
 </h1>
 
 <p align="center">Este projeto é um clone responsivo do Twitter. A vídeo aula foi publicada <a href="https://www.youtube.com/watch?v=K-8z_4xvT3o">aqui</a>, pela <a href="https://rocketseat.com.br/">Rocketseat</a>, para fins de estudos.</p>
